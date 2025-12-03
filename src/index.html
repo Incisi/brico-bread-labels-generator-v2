@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Etiquetas - Multi-Loja</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <main class="container">
+        <header class="main-header">
+            <div class="store-control">
+                <label>Loja:</label>
+                <select id="store-select" class="store-input"></select>
+            </div>
+            <div class="header-actions">
+                <button id="settings-btn" class="icon-btn" title="Configurações">⚙️</button>
+                <button id="trash-btn" class="icon-btn" title="Lixeira">🗑️</button>
+            </div>
+        </header>
+
+        <h1>Gerador de Etiquetas</h1>
+
+        <div class="search-container">
+            <input type="text" id="search" placeholder="🔎 Pesquisar por código ou nome...">
+        </div>
+
+        <div class="btn-container">
+            <button class="btn btn-primary" id="add-product-btn">Adicionar Produto</button>
+            <button class="btn btn-secondary" id="generate-btn">Gerar PDF</button>
+            <button class="btn btn-success" id="save-all-btn">Salvar Alterações</button>
+        </div>
+
+        <div id="products-list-container">
+            <div class="global-controls">
+                <div>
+                    <input type="checkbox" id="select-all">
+                    <label for="select-all">Selecionar todos</label>
+                </div>
+                <div class="global-quantity-wrapper">
+                    <label>Qtd. Global:</label>
+                    <input type="number" id="global-quantity" class="quantity-input" value="1" min="1">
+                    <button id="apply-global-quantity-btn" class="btn btn-tertiary">Aplicar</button>
+                </div>
+            </div>
+            <div id="products"></div>
+        </div>
+    </main>
+
+    <div id="trash-modal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Lixeira de Produtos</h2>
+                <button id="close-trash-btn" class="close-btn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <input type="text" id="search-trash" placeholder="Buscar na lixeira...">
+                <div id="trash-products" class="trash-list"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="settings-modal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Gerenciar Lojas</h2>
+                <button id="close-settings-btn" class="close-btn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="add-store-form">
+                    <input type="text" id="new-store-id" placeholder="ID (ex: franquia-02)">
+                    <input type="text" id="new-store-name" placeholder="Nome (ex: Loja Shopping)">
+                    <button id="add-store-btn" class="btn btn-primary">Adicionar</button>
+                </div>
+                <hr>
+                <div id="settings-list"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>require('./js/app.js')</script>
+</body>
+
+</html>

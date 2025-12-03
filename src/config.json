@@ -1,0 +1,15 @@
+{
+  "stores": [
+    {
+      "id": "matriz",
+      "name": "Cotia"
+    },
+    {
+        "id": "morumbi",
+        "name": "Morumbi"
+    }
+  ],
+  "settings": {
+    "currencySymbol": "R$"
+  }
+}

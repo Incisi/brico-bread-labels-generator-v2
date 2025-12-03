@@ -1,0 +1,752 @@
+[
+  {
+    "codigo": "2027A",
+    "nome": "Croissant sem Recheio Assado",
+    "medida": "1 unidade",
+    "preco": 2.5,
+    "isNew": true,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "2026A",
+    "nome": "Croissant de Frango com Requeijão Assado",
+    "medida": "1 unidade",
+    "preco": 5,
+    "isNew": true,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": [
+      {
+        "preco": 5.7,
+        "data": "2025-11-24T12:35:10.107Z"
+      }
+    ]
+  },
+  {
+    "codigo": "2025A",
+    "nome": "Croissant de Presunto e Queijo Assado",
+    "medida": "1 unidade",
+    "preco": 5,
+    "isNew": true,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": [
+      {
+        "preco": 5.7,
+        "data": "2025-11-24T12:35:10.107Z"
+      }
+    ]
+  },
+  {
+    "codigo": "2027",
+    "nome": "Croissant sem Recheio",
+    "medida": "Pacote 30g",
+    "preco": 2.5,
+    "isNew": true,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "2026",
+    "nome": "Croissant de Frango com Requeijão",
+    "medida": "Pacote 90g",
+    "preco": 5,
+    "isNew": true,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": [
+      {
+        "preco": 5.7,
+        "data": "2025-11-24T12:35:10.107Z"
+      }
+    ]
+  },
+  {
+    "codigo": "2025",
+    "nome": "Croissant de Presunto e Queijo",
+    "medida": "Pacote 90g",
+    "preco": 5,
+    "isNew": true,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": [
+      {
+        "preco": 5.7,
+        "data": "2025-11-24T12:35:10.107Z"
+      }
+    ]
+  },
+  {
+    "codigo": "1421",
+    "nome": "Baguetine Assada",
+    "medida": "Pacote 312g",
+    "preco": 5.89,
+    "isNew": true,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": [
+      {
+        "preco": 5.89,
+        "data": "2025-07-25T11:46:51.300Z"
+      }
+    ]
+  },
+  {
+    "codigo": "690A",
+    "nome": "Chipa Assada",
+    "medida": "1 unidade",
+    "preco": 2.26,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": [
+      {
+        "preco": 2.26,
+        "data": "2025-07-16T15:07:53.343Z"
+      }
+    ]
+  },
+  {
+    "codigo": "8242",
+    "nome": "Pão Francês - Pacote com 4 unidades",
+    "medida": "Pacote 260g",
+    "preco": 5.13,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": [
+      {
+        "preco": 5.13,
+        "data": "2025-07-16T13:55:43.130Z"
+      }
+    ]
+  },
+  {
+    "codigo": "828",
+    "nome": "Mini Ciabatta",
+    "medida": "Pacote 300g",
+    "preco": 10.9,
+    "isNew": true,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": [
+      {
+        "preco": 10.9,
+        "data": "2025-07-11T19:36:15.885Z"
+      }
+    ]
+  },
+  {
+    "codigo": "823",
+    "nome": "Pão de Queijo Tradicional",
+    "medida": "Pacote 400g",
+    "preco": 14.04,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "209A",
+    "nome": "Folhado de Maçã Assado",
+    "medida": "1 unidade",
+    "preco": 4.05,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "214A",
+    "nome": "Folhado de Calabresa Assado",
+    "medida": "1 unidade",
+    "preco": 3.96,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "330A",
+    "nome": "Baguete de Frango Assada",
+    "medida": "1 unidade",
+    "preco": 6.8,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "333A",
+    "nome": "Baguete de Mussarela Assada",
+    "medida": "1 unidade",
+    "preco": 6.42,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "331A",
+    "nome": "Baguete de Calabresa Assada",
+    "medida": "1 unidade",
+    "preco": 8.05,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "819",
+    "nome": "Pão Recheado de Calabresa",
+    "medida": "Pacote 220g",
+    "preco": 9.3,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "3301",
+    "nome": "Baguete de Frango",
+    "medida": "Pacote 366g",
+    "preco": 13.61,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "3331",
+    "nome": "Baguete de Mussarela",
+    "medida": "Pacote 366g",
+    "preco": 12.86,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "3311",
+    "nome": "Baguete de Calabresa",
+    "medida": "Pacote 366g",
+    "preco": 15.21,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "2141",
+    "nome": "Folhado de Calabresa",
+    "medida": "Pacote 300g",
+    "preco": 11.9,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "1647",
+    "nome": "Pão Bola - 6 unidades",
+    "medida": "Pacote 414g",
+    "preco": 13.49,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "4667",
+    "nome": "Pão de Hambúrguer Brioche",
+    "medida": "Pacote 420g",
+    "preco": 14.91,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "472",
+    "nome": "Mini Pão de Hambúrguer Brioche",
+    "medida": "Pacote 120g",
+    "preco": 4.84,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "474",
+    "nome": "Mini Pão de Hambúrguer Australiano",
+    "medida": "Pacote 120g",
+    "preco": 5.91,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "2120",
+    "nome": "Croissant",
+    "medida": "Pacote 145g",
+    "preco": 6.99,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "363",
+    "nome": "Pão de Alho",
+    "medida": "Bandeja 330g",
+    "preco": 8.99,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "690",
+    "nome": "Chipa",
+    "medida": "Pacote 1kg",
+    "preco": 28.98,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "827",
+    "nome": "Mini Chipa",
+    "medida": "Pacote 400g",
+    "preco": 12.16,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "601",
+    "nome": "Pão de Queijo Coquetel",
+    "medida": "Pacote 1kg",
+    "preco": 32.29,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "603",
+    "nome": "Pão de Queijo Maxi",
+    "medida": "Pacote 1kg",
+    "preco": 30.73,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "4091",
+    "nome": "Mini Pão Doce de Creme",
+    "medida": "Pacote 129g",
+    "preco": 6.63,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "4911",
+    "nome": "Mini Pão Doce de Doce de Leite",
+    "medida": "Pacote 129g",
+    "preco": 6.63,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "4111",
+    "nome": "Mini Pão Doce de Creme com Canela e Passas",
+    "medida": "Pacote 129g",
+    "preco": 6.63,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "4901",
+    "nome": "Mini Pão Doce de Creme de Avelã",
+    "medida": "Pacote 129g",
+    "preco": 6.63,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "172",
+    "nome": "Baguete Tradicional",
+    "medida": "Pacote 940g",
+    "preco": 15.28,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "817",
+    "nome": "Baguette Tradicional",
+    "medida": "Pacote 200g",
+    "preco": 3.99,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "144A",
+    "nome": "Pão Francês Tradicional - 4 unidades",
+    "medida": "Pacote 260g",
+    "preco": 3.12,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "835",
+    "nome": "Pão Francês Integral",
+    "medida": "Pacote 280g",
+    "preco": 6.87,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "816",
+    "nome": "Mini Pão Francês",
+    "medida": "Pacote 300g",
+    "preco": 5.99,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "818",
+    "nome": "Mini Pão Francês Integral",
+    "medida": "Pacote 300g",
+    "preco": 7.26,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "175",
+    "nome": "Mini Pão Integral",
+    "medida": "Pacote 1,9kg",
+    "preco": 38.19,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "174",
+    "nome": "Pão Francês Integral",
+    "medida": "Pacote 1,3kg",
+    "preco": 25.17,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "170",
+    "nome": "Mini Pão Francês Tradicional",
+    "medida": "Pacote 1,9kg",
+    "preco": 27.61,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "171",
+    "nome": "Pão Francês Tradicional",
+    "medida": "Pacote 1,3kg",
+    "preco": 16.77,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "9061",
+    "nome": "Pão Australiano Filão",
+    "medida": "Pacote 270g",
+    "preco": 10.07,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "4501",
+    "nome": "Bisnaga Doce",
+    "medida": "Pacote 620g",
+    "preco": 13.88,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "5031",
+    "nome": "Pãozinho de Leite",
+    "medida": "Pacote 450g",
+    "preco": 13.15,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "5071",
+    "nome": "Ciabatta",
+    "medida": "Pacote 218g",
+    "preco": 7.51,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "2091",
+    "nome": "Folhado de Maçã",
+    "medida": "Pacote 300g",
+    "preco": 12.16,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "680",
+    "nome": "Broinha de Milho",
+    "medida": "Pacote 1kg",
+    "preco": 21.29,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "881",
+    "nome": "Bolo Brico com Gotas de Chocolate",
+    "medida": "Pacote 220g",
+    "preco": 10.64,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "7122",
+    "nome": "Cookie Assado Baunilha com Gotas de Chocolate",
+    "medida": "2 unidades",
+    "preco": 6.45,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "7102",
+    "nome": "Cookie Assado Chocolate com Chocolate Branco",
+    "medida": "2 unidades",
+    "preco": 6.45,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "7121",
+    "nome": "Cookie Cru de Baunilha com Gotas de Chocolate",
+    "medida": "Pacote 250g",
+    "preco": 10.97,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "7101",
+    "nome": "Cookie Cru de Chocolate com Chocolate Branco",
+    "medida": "Pacote 250g",
+    "preco": 14.78,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "712A",
+    "nome": "Cookie de Baunilha Assado",
+    "medida": "1 unidade",
+    "preco": 2.19,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "710A",
+    "nome": "Cookie de Chocolate Assado",
+    "medida": "1 unidade",
+    "preco": 2.95,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "2361",
+    "nome": "Pain Au Chocolat",
+    "medida": "Pacote 140g",
+    "preco": 7.26,
+    "isNew": false,
+    "isInactive": true,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "471",
+    "nome": "Pão Hambúrguer Australiano",
+    "medida": "Pacote 210g",
+    "preco": 9.46,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "4591",
+    "nome": "Pão de Hot Dog",
+    "medida": "Pacote 272g",
+    "preco": 7.51,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "183",
+    "nome": "Mini Pão Francês Redondo",
+    "medida": "Pacote 108g",
+    "preco": 4.84,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "173",
+    "nome": "Baguete com Gergelim",
+    "medida": "Pacote 940g",
+    "preco": 24.93,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "473",
+    "nome": "Pão para Couvert",
+    "medida": "Pacote 220g",
+    "preco": 7.74,
+    "isNew": false,
+    "isInactive": true,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "4101",
+    "nome": "Mini Pão Doce de Creme com Coco",
+    "medida": "Pacote 129g",
+    "preco": 7.11,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "490A",
+    "nome": "Mini Pão Doce de Creme de Avelã Assado",
+    "medida": "1 unidade",
+    "preco": 2.5,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "6802",
+    "nome": "Mini Broinha de Milho",
+    "medida": "Pacote 200g",
+    "preco": 6.24,
+    "isNew": false,
+    "isInactive": true,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "1442",
+    "nome": "Pão Francês - 8 unidades",
+    "medida": "Pacote 520g",
+    "preco": 10.5,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "1292",
+    "nome": "Pão Francês Integral - 8 unidades",
+    "medida": "Pacote 560g",
+    "preco": 13.74,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "129A",
+    "nome": "Pão Francês Integral Assado - 4 unidades",
+    "medida": "Pacote 280g",
+    "preco": 4.59,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  },
+  {
+    "codigo": "601A",
+    "nome": "Pão de Queijo Assado",
+    "medida": "10 unidades",
+    "preco": 6.5,
+    "isNew": false,
+    "isInactive": false,
+    "isDeleted": false,
+    "historicoPrecos": []
+  }
+]
